@@ -5,6 +5,7 @@
 
 ## More
 - Check out my [website](https://domingosfelipe.github.io/resume/).
+- Check out my [gists](https://gist.github.com/domingosfelipe).
 
 ## Stats
 <p align="center">
