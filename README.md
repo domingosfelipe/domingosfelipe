@@ -12,5 +12,3 @@
     <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=domingosfelipe&show_icons=true&theme=transparent">
   </a>
 </p>
-
----
